@@ -1,0 +1,7 @@
+flask
+requests
+pandas
+matplotlib
+backtrader
+pyautogui
+mysql-connector-python

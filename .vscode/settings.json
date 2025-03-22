@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./TradeBot/Util",
+        "./TradeBot/Service",
+        "./TradeBot/DAO"
+    ]
+}
